@@ -204,8 +204,7 @@ def frontier_chart(df: pd.DataFrame) -> go.Figure:
 CSS = """<style>
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
-header {visibility: hidden;}
-[data-testid="collapsedControl"] {visibility: visible !important;}
+[data-testid="stToolbar"] {visibility: hidden;}
 </style>"""
 
 
