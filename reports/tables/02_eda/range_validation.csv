@@ -1,0 +1,9 @@
+variable,expected_min,expected_max,actual_min,actual_max,n_below_min,n_above_max,status
+political_stability_score_0_100_avg_3y,0,100.0,20.4033,92.98,0,0,OK
+renewable_share_pct,0,100.0,0.0,100.0,0,0,OK
+internet_penetration_pct_clean,0,100.0,1.3,100.0,0,0,OK
+water_stress_pct_latest,0,,0.0274,3850.5,0,0,OK
+worldrisk_index_2025,0,100.0,0.18,46.56,0,0,OK
+electricity_business_usd_kwh,0,,0.013,0.419,0,0,OK
+avg_mean_temp_c_2021_2023,-90,60.0,-17.1133,29.4333,0,0,OK
+cooling_degree_days_65f_2021_2023,0,,0.0,7334.18,0,0,OK

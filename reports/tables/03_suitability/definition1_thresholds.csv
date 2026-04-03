@@ -1,0 +1,8 @@
+variable,direction,threshold
+cooling_degree_days_65f_2021_2023,lower is better,5334.4
+water_stress_pct_latest,lower is better,40.06480422
+worldrisk_index_2025,lower is better,11.01
+political_stability_score_0_100_avg_3y,higher is better,55.877500000000005
+electricity_business_usd_kwh,lower is better,0.2125
+renewable_share_pct,higher is better,10.81
+internet_penetration_pct_clean,higher is better,41.75

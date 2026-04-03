@@ -1,0 +1,11 @@
+variable,q1,q3,iqr,lower_fence,upper_fence,n_outliers
+avg_mean_temp_c_2021_2023,13.17,26.45,13.28,-6.75,46.37,1
+cooling_degree_days_65f_2021_2023,1050.03,5334.4,4284.37,-5376.525,11760.955,0
+days_heat_index_gt35c_2021_2023,0.0,4.047,4.047,-6.07,10.117,39
+water_stress_pct_latest,3.778,40.065,36.287,-50.652,94.495,18
+freshwater_m3_per_capita_latest,806.466,9705.449,8898.984,-12542.01,23053.925,28
+worldrisk_index_2025,2.32,11.01,8.69,-10.715,24.045,18
+political_stability_score_0_100_avg_3y,55.878,79.956,24.078,19.76,116.073,0
+electricity_business_usd_kwh,0.094,0.212,0.118,-0.084,0.39,1
+renewable_share_pct,10.81,63.442,52.632,-68.139,142.391,0
+internet_penetration_pct_clean,41.75,91.15,49.4,-32.35,165.25,0

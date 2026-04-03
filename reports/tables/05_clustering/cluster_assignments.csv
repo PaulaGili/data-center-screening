@@ -1,0 +1,218 @@
+country,iso3,region,cluster,score_equal_balanced
+Dominica,DMA,Latin America & Caribbean ,0,0.6680371731186526
+Botswana,BWA,Sub-Saharan Africa ,0,0.6269936205316076
+Cabo Verde,CPV,Sub-Saharan Africa ,0,0.6204501937793747
+Mauritius,MUS,Sub-Saharan Africa ,0,0.614680166496115
+Jordan,JOR,"Middle East, North Africa, Afghanistan & Pakistan",0,0.6126264305084403
+Sao Tome and Principe,STP,Sub-Saharan Africa ,0,0.6100057888600313
+Sri Lanka,LKA,South Asia,0,0.608455689310205
+Morocco,MAR,"Middle East, North Africa, Afghanistan & Pakistan",0,0.6050522503350207
+Suriname,SUR,Latin America & Caribbean ,0,0.5995446565311484
+Qatar,QAT,"Middle East, North Africa, Afghanistan & Pakistan",0,0.5984906467945249
+Bolivia,BOL,Latin America & Caribbean ,0,0.5894446977132246
+Brunei Darussalam,BRN,East Asia & Pacific,0,0.5884675626124317
+Israel,ISR,"Middle East, North Africa, Afghanistan & Pakistan",0,0.5840782321079558
+Australia,AUS,East Asia & Pacific,0,0.5803606427782992
+Cambodia,KHM,East Asia & Pacific,0,0.5698158934057055
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean ,0,0.5685501442414325
+Samoa,WSM,East Asia & Pacific,0,0.5658359033607573
+Bahrain,BHR,"Middle East, North Africa, Afghanistan & Pakistan",0,0.5649588278435568
+Marshall Islands,MHL,East Asia & Pacific,0,0.5631457132489472
+Antigua and Barbuda,ATG,Latin America & Caribbean ,0,0.5620911131728609
+Ghana,GHA,Sub-Saharan Africa ,0,0.5577513475880435
+Malaysia,MYS,East Asia & Pacific,0,0.5554970933427219
+Singapore,SGP,East Asia & Pacific,0,0.5530749957163552
+Grenada,GRD,Latin America & Caribbean ,0,0.5503926135316232
+St. Kitts and Nevis,KNA,Latin America & Caribbean ,0,0.549240694485935
+St. Lucia,LCA,Latin America & Caribbean ,0,0.5460830798504575
+Dominican Republic,DOM,Latin America & Caribbean ,0,0.5447018327609631
+Trinidad and Tobago,TTO,Latin America & Caribbean ,0,0.5372950045904179
+"Egypt, Arab Rep.",EGY,"Middle East, North Africa, Afghanistan & Pakistan",0,0.5330179588160098
+Maldives,MDV,South Asia,0,0.5318635582315167
+Tunisia,TUN,"Middle East, North Africa, Afghanistan & Pakistan",0,0.530912810559844
+Oman,OMN,"Middle East, North Africa, Afghanistan & Pakistan",0,0.5276947606302379
+Barbados,BRB,Latin America & Caribbean ,0,0.5260311296716929
+Palau,PLW,East Asia & Pacific,0,0.525770219414413
+Gabon,GAB,Sub-Saharan Africa ,0,0.524209418985989
+Equatorial Guinea,GNQ,Sub-Saharan Africa ,0,0.5232411683452819
+Comoros,COM,Sub-Saharan Africa ,0,0.5195469296590448
+Saudi Arabia,SAU,"Middle East, North Africa, Afghanistan & Pakistan",0,0.519359898135387
+Seychelles,SYC,Sub-Saharan Africa ,0,0.5153291351676258
+Cuba,CUB,Latin America & Caribbean ,0,0.514166492834463
+Turkmenistan,TKM,Europe & Central Asia,0,0.505206626200886
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,0,0.4976332988704054
+Jamaica,JAM,Latin America & Caribbean ,0,0.4940035778245824
+Tonga,TON,East Asia & Pacific,0,0.493646169874677
+Kiribati,KIR,East Asia & Pacific,0,0.4923183222371524
+Iraq,IRQ,"Middle East, North Africa, Afghanistan & Pakistan",0,0.4913521664394512
+United Arab Emirates,ARE,"Middle East, North Africa, Afghanistan & Pakistan",0,0.4886752509783302
+"Iran, Islamic Rep.",IRN,"Middle East, North Africa, Afghanistan & Pakistan",0,0.4830997062597563
+"Congo, Rep.",COG,Sub-Saharan Africa ,0,0.4818311101119636
+Djibouti,DJI,"Middle East, North Africa, Afghanistan & Pakistan",0,0.4785738331384219
+Central African Republic,CAF,Sub-Saharan Africa ,0,0.47465784376545
+Nigeria,NGA,Sub-Saharan Africa ,0,0.4738263887490967
+Cote d'Ivoire,CIV,Sub-Saharan Africa ,0,0.47268801550655
+Senegal,SEN,Sub-Saharan Africa ,0,0.4707440097528206
+Guyana,GUY,Latin America & Caribbean ,0,0.4700951552717148
+Vanuatu,VUT,East Asia & Pacific,0,0.4615396102573109
+Algeria,DZA,"Middle East, North Africa, Afghanistan & Pakistan",0,0.4610775236480966
+Bangladesh,BGD,South Asia,0,0.4543891897840409
+Thailand,THA,East Asia & Pacific,0,0.4543250954593794
+"Bahamas, The",BHS,Latin America & Caribbean ,0,0.4512367774969483
+Nauru,NRU,East Asia & Pacific,0,0.44772035524263
+Kuwait,KWT,"Middle East, North Africa, Afghanistan & Pakistan",0,0.4454098512316075
+Philippines,PHL,East Asia & Pacific,0,0.4445964714733965
+Haiti,HTI,Latin America & Caribbean ,0,0.4401369847603517
+"Gambia, The",GMB,Sub-Saharan Africa ,0,0.4296960896188558
+Mauritania,MRT,Sub-Saharan Africa ,0,0.4291804430431178
+Benin,BEN,Sub-Saharan Africa ,0,0.4262685663962084
+Timor-Leste,TLS,East Asia & Pacific,0,0.4262363363363842
+Eritrea,ERI,Sub-Saharan Africa ,0,0.4242739172656058
+Tuvalu,TUV,East Asia & Pacific,0,0.4227856551426622
+Puerto Rico (US),PRI,Latin America & Caribbean ,0,0.4206730664352023
+Libya,LBY,"Middle East, North Africa, Afghanistan & Pakistan",0,0.4203012144334708
+Guinea-Bissau,GNB,Sub-Saharan Africa ,0,0.4157804290810675
+Burkina Faso,BFA,Sub-Saharan Africa ,0,0.3968199602253512
+Mali,MLI,Sub-Saharan Africa ,0,0.3960028974888815
+Bermuda,BMU,North America,0,0.3745745472935197
+Chad,TCD,Sub-Saharan Africa ,0,0.3530016296287009
+Niger,NER,Sub-Saharan Africa ,0,0.3365075626793677
+South Sudan,SSD,Sub-Saharan Africa ,0,0.323292365705267
+Aruba,ABW,Latin America & Caribbean ,0,0.3186617345050622
+Solomon Islands,SLB,East Asia & Pacific,0,0.305110246253013
+Cayman Islands,CYM,Latin America & Caribbean ,0,0.2674813635772969
+American Samoa,ASM,East Asia & Pacific,0,
+Channel Islands,CHI,Europe & Central Asia,0,
+Curacao,CUW,Latin America & Caribbean ,0,
+Guam,GUM,East Asia & Pacific,0,
+"Hong Kong SAR, China",HKG,East Asia & Pacific,0,
+"Macao SAR, China",MAC,East Asia & Pacific,0,
+St. Martin (French part),MAF,Latin America & Caribbean ,0,
+Northern Mariana Islands,MNP,East Asia & Pacific,0,
+New Caledonia,NCL,East Asia & Pacific,0,
+French Polynesia,PYF,East Asia & Pacific,0,
+Sint Maarten (Dutch part),SXM,Latin America & Caribbean ,0,
+Turks and Caicos Islands,TCA,Latin America & Caribbean ,0,
+British Virgin Islands,VGB,Latin America & Caribbean ,0,
+Virgin Islands (U.S.),VIR,Latin America & Caribbean ,0,
+Kosovo,XKX,Europe & Central Asia,0,
+Nepal,NPL,South Asia,1,0.7218923400574828
+Paraguay,PRY,Latin America & Caribbean ,1,0.7171097686070635
+Namibia,NAM,Sub-Saharan Africa ,1,0.6934286910260513
+Zambia,ZMB,Sub-Saharan Africa ,1,0.6665983768953407
+Angola,AGO,Sub-Saharan Africa ,1,0.6562554309299062
+Eswatini,SWZ,Sub-Saharan Africa ,1,0.6392290431528319
+Rwanda,RWA,Sub-Saharan Africa ,1,0.6375323418644803
+Malawi,MWI,Sub-Saharan Africa ,1,0.6250226343412585
+Brazil,BRA,Latin America & Caribbean ,1,0.6248619015565633
+Ecuador,ECU,Latin America & Caribbean ,1,0.6246216194977992
+Belize,BLZ,Latin America & Caribbean ,1,0.6144574666587903
+"Korea, Dem. People's Rep.",PRK,East Asia & Pacific,1,0.6109771749033985
+Fiji,FJI,East Asia & Pacific,1,0.6063759613615174
+Uganda,UGA,Sub-Saharan Africa ,1,0.6029333852415661
+Guatemala,GTM,Latin America & Caribbean ,1,0.5967316565097781
+Ethiopia,ETH,Sub-Saharan Africa ,1,0.5964450769894649
+El Salvador,SLV,Latin America & Caribbean ,1,0.5924916255121098
+Panama,PAN,Latin America & Caribbean ,1,0.5882409031503382
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",1,0.5830886361051679
+Peru,PER,Latin America & Caribbean ,1,0.5738390182617482
+Viet Nam,VNM,East Asia & Pacific,1,0.5736803927890289
+Burundi,BDI,Sub-Saharan Africa ,1,0.5503378783237123
+"Venezuela, RB",VEN,Latin America & Caribbean ,1,0.5458874807241021
+Kenya,KEN,Sub-Saharan Africa ,1,0.5388743065920323
+Honduras,HND,Latin America & Caribbean ,1,0.5339130147207256
+Nicaragua,NIC,Latin America & Caribbean ,1,0.5338658410974666
+Liberia,LBR,Sub-Saharan Africa ,1,0.5283342014393466
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa ,1,0.5167645297574208
+Cameroon,CMR,Sub-Saharan Africa ,1,0.5161410515294
+Guinea,GIN,Sub-Saharan Africa ,1,0.515237153857329
+Colombia,COL,Latin America & Caribbean ,1,0.5108880162474211
+Zimbabwe,ZWE,Sub-Saharan Africa ,1,0.5081068862958608
+Sudan,SDN,Sub-Saharan Africa ,1,0.505383499106335
+Sierra Leone,SLE,Sub-Saharan Africa ,1,0.494244126412499
+Mozambique,MOZ,Sub-Saharan Africa ,1,0.4865808276501881
+Tanzania,TZA,Sub-Saharan Africa ,1,0.4865675039191341
+Madagascar,MDG,Sub-Saharan Africa ,1,0.4667326274070632
+Mexico,MEX,Latin America & Caribbean ,1,0.4604229871307979
+Indonesia,IDN,East Asia & Pacific,1,0.460377010433746
+West Bank and Gaza,PSE,"Middle East, North Africa, Afghanistan & Pakistan",1,0.4436312046993735
+Pakistan,PAK,"Middle East, North Africa, Afghanistan & Pakistan",1,0.4344263071237522
+Togo,TGO,Sub-Saharan Africa ,1,0.4339965088243643
+India,IND,South Asia,1,0.4204809445409901
+Syrian Arab Republic,SYR,"Middle East, North Africa, Afghanistan & Pakistan",1,0.4096751616649615
+Papua New Guinea,PNG,East Asia & Pacific,1,0.4077314891943152
+Myanmar,MMR,East Asia & Pacific,1,0.3772765438749382
+"Somalia, Fed. Rep.",SOM,Sub-Saharan Africa ,1,0.3661983942905714
+"Yemen, Rep.",YEM,"Middle East, North Africa, Afghanistan & Pakistan",1,0.2610647389306404
+Iceland,ISL,Europe & Central Asia,2,0.894390186525406
+Bhutan,BTN,South Asia,2,0.8690864909444741
+Norway,NOR,Europe & Central Asia,2,0.8672056800550353
+Sweden,SWE,Europe & Central Asia,2,0.8261824499691398
+Kyrgyz Republic,KGZ,Europe & Central Asia,2,0.8260601789796448
+Luxembourg,LUX,Europe & Central Asia,2,0.8061191665971529
+Finland,FIN,Europe & Central Asia,2,0.8045581881992129
+New Zealand,NZL,East Asia & Pacific,2,0.799406503624149
+Lithuania,LTU,Europe & Central Asia,2,0.7977606585852928
+Denmark,DNK,Europe & Central Asia,2,0.7955587914849128
+Canada,CAN,North America,2,0.785767954297819
+Latvia,LVA,Europe & Central Asia,2,0.7828450975484433
+Uruguay,URY,Latin America & Caribbean ,2,0.7822726476709443
+Andorra,AND,Europe & Central Asia,2,0.7742105041515915
+Monaco,MCO,Europe & Central Asia,2,0.7711071917885807
+Liechtenstein,LIE,Europe & Central Asia,2,0.7697645335010256
+Tajikistan,TJK,Europe & Central Asia,2,0.7673471216317872
+Estonia,EST,Europe & Central Asia,2,0.7671777652609035
+Switzerland,CHE,Europe & Central Asia,2,0.7648239691897163
+Austria,AUT,Europe & Central Asia,2,0.7610562743900078
+Albania,ALB,Europe & Central Asia,2,0.759072891557852
+Ireland,IRL,Europe & Central Asia,2,0.7584418116186817
+Georgia,GEO,Europe & Central Asia,2,0.7580473650979352
+United Kingdom,GBR,Europe & Central Asia,2,0.7508622147193142
+Portugal,PRT,Europe & Central Asia,2,0.7474649725156329
+Croatia,HRV,Europe & Central Asia,2,0.7413101846235142
+Chile,CHL,Latin America & Caribbean ,2,0.7287130691092569
+Slovenia,SVN,Europe & Central Asia,2,0.7242619245144348
+Netherlands,NLD,Europe & Central Asia,2,0.7233321337373336
+Mongolia,MNG,East Asia & Pacific,2,0.7192151983710373
+North Macedonia,MKD,Europe & Central Asia,2,0.7189600913298637
+Ukraine,UKR,Europe & Central Asia,2,0.7150451161754944
+Montenegro,MNE,Europe & Central Asia,2,0.708985254979778
+Germany,DEU,Europe & Central Asia,2,0.7055660478730115
+Costa Rica,CRI,Latin America & Caribbean ,2,0.7028972285752848
+Czechia,CZE,Europe & Central Asia,2,0.7005139504345284
+Romania,ROU,Europe & Central Asia,2,0.700175806777238
+Bosnia and Herzegovina,BIH,Europe & Central Asia,2,0.6976916513828754
+Kazakhstan,KAZ,Europe & Central Asia,2,0.6935990953957507
+Spain,ESP,Europe & Central Asia,2,0.693417283015515
+Armenia,ARM,Europe & Central Asia,2,0.6913709301688352
+Bulgaria,BGR,Europe & Central Asia,2,0.6909814112657319
+Serbia,SRB,Europe & Central Asia,2,0.6905992481258837
+Lao PDR,LAO,East Asia & Pacific,2,0.6834530373176096
+Belarus,BLR,Europe & Central Asia,2,0.6805235437788721
+Hungary,HUN,Europe & Central Asia,2,0.6796140683701322
+Belgium,BEL,Europe & Central Asia,2,0.6757141123821226
+Slovak Republic,SVK,Europe & Central Asia,2,0.6708795836825443
+San Marino,SMR,Europe & Central Asia,2,0.666995915762574
+Moldova,MDA,Europe & Central Asia,2,0.6656237515854624
+Uzbekistan,UZB,Europe & Central Asia,2,0.6636487676343183
+"Korea, Rep.",KOR,East Asia & Pacific,2,0.6613379058636151
+France,FRA,Europe & Central Asia,2,0.6605749895900911
+Malta,MLT,"Middle East, North Africa, Afghanistan & Pakistan",2,0.6540668906393166
+Azerbaijan,AZE,Europe & Central Asia,2,0.6522754616973192
+Argentina,ARG,Latin America & Caribbean ,2,0.6479073885310551
+Lesotho,LSO,Sub-Saharan Africa ,2,0.6468496476312076
+Poland,POL,Europe & Central Asia,2,0.6455400634882579
+Greece,GRC,Europe & Central Asia,2,0.643329817384125
+Japan,JPN,East Asia & Pacific,2,0.6323325126237936
+Lebanon,LBN,"Middle East, North Africa, Afghanistan & Pakistan",2,0.6304828794273972
+Turkiye,TUR,Europe & Central Asia,2,0.6245369986069609
+Russian Federation,RUS,Europe & Central Asia,2,0.6228402687647504
+United States,USA,North America,2,0.6216901083100368
+China,CHN,East Asia & Pacific,2,0.6181534063691513
+Cyprus,CYP,Europe & Central Asia,2,0.5968339968285625
+South Africa,ZAF,Sub-Saharan Africa ,2,0.5861495760941132
+Italy,ITA,Europe & Central Asia,2,0.5677612308219908
+Faroe Islands,FRO,Europe & Central Asia,2,
+Gibraltar,GIB,Europe & Central Asia,2,
+Greenland,GRL,Europe & Central Asia,2,
+Isle of Man,IMN,Europe & Central Asia,2,

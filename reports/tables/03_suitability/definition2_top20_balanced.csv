@@ -1,0 +1,21 @@
+country,iso3,region,balanced_suitability_score,n_scores_used,has_data_center_record,total_data_centers
+Iceland,ISL,Europe & Central Asia,0.9050485505688594,7,True,3
+Bhutan,BTN,South Asia,0.8943450813922331,7,True,3
+Norway,NOR,Europe & Central Asia,0.8306119170692243,7,True,26
+Luxembourg,LUX,Europe & Central Asia,0.7956030651092968,7,True,16
+Liechtenstein,LIE,Europe & Central Asia,0.7916638308169167,5,True,5
+Sweden,SWE,Europe & Central Asia,0.7803576941306746,6,True,95
+Finland,FIN,Europe & Central Asia,0.7567864929280057,7,True,25
+Lithuania,LTU,Europe & Central Asia,0.7328366086674596,7,True,20
+New Zealand,NZL,East Asia & Pacific,0.7256383397783011,6,True,30
+Paraguay,PRY,Latin America & Caribbean ,0.7203417520180413,7,True,8
+Switzerland,CHE,Europe & Central Asia,0.7195568825352663,7,True,121
+Latvia,LVA,Europe & Central Asia,0.7153917354270344,7,True,25
+Denmark,DNK,Europe & Central Asia,0.7141225350531876,7,True,42
+Ireland,IRL,Europe & Central Asia,0.6976102079450812,6,True,80
+Uruguay,URY,Latin America & Caribbean ,0.6914339048854065,7,True,9
+Montenegro,MNE,Europe & Central Asia,0.6912083957765784,5,True,0
+Canada,CAN,North America,0.6891813994155204,7,True,336
+Estonia,EST,Europe & Central Asia,0.6703525067159938,7,True,12
+Slovenia,SVN,Europe & Central Asia,0.668753736284294,7,True,21
+Croatia,HRV,Europe & Central Asia,0.6662086375734159,7,True,18

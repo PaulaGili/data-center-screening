@@ -1,0 +1,35 @@
+country,iso3,region,electricity_business_usd_kwh,total_data_centers,renewable_share_pct
+Angola,AGO,Sub-Saharan Africa ,0.013,4,73.7
+Bhutan,BTN,South Asia,0.019,3,100.0
+Ethiopia,ETH,Sub-Saharan Africa ,0.019,2,100.0
+Lesotho,LSO,Sub-Saharan Africa ,0.022,2,0.0
+Algeria,DZA,"Middle East, North Africa, Afghanistan & Pakistan",0.035,5,1.07
+"Egypt, Arab Rep.",EGY,"Middle East, North Africa, Afghanistan & Pakistan",0.037,7,11.2
+Zambia,ZMB,Sub-Saharan Africa ,0.037,2,87.48
+Sudan,SDN,Sub-Saharan Africa ,0.038,3,79.68
+Kyrgyz Republic,KGZ,Europe & Central Asia,0.039,1,88.78
+Iraq,IRQ,"Middle East, North Africa, Afghanistan & Pakistan",0.045,4,1.63
+Syrian Arab Republic,SYR,"Middle East, North Africa, Afghanistan & Pakistan",0.047,2,3.53
+Azerbaijan,AZE,Europe & Central Asia,0.064,3,11.75
+Uzbekistan,UZB,Europe & Central Asia,0.067,3,15.95
+Nepal,NPL,South Asia,0.068,7,100.0
+Kazakhstan,KAZ,Europe & Central Asia,0.074,6,15.21
+Rwanda,RWA,Sub-Saharan Africa ,0.076,4,49.56
+Bahrain,BHR,"Middle East, North Africa, Afghanistan & Pakistan",0.077,5,0.26
+Mozambique,MOZ,Sub-Saharan Africa ,0.08,7,83.42
+"Venezuela, RB",VEN,Latin America & Caribbean ,0.081,6,91.13
+Iceland,ISL,Europe & Central Asia,0.084,3,100.0
+Ecuador,ECU,Latin America & Caribbean ,0.092,7,72.43
+Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",0.092,2,86.87
+Sri Lanka,LKA,South Asia,0.094,4,55.24
+Tanzania,TZA,Sub-Saharan Africa ,0.094,3,32.91
+Armenia,ARM,Europe & Central Asia,0.109,6,31.9
+Morocco,MAR,"Middle East, North Africa, Afghanistan & Pakistan",0.109,4,24.4
+Belarus,BLR,Europe & Central Asia,0.11,6,3.08
+Tunisia,TUN,"Middle East, North Africa, Afghanistan & Pakistan",0.115,6,4.4
+Botswana,BWA,Sub-Saharan Africa ,0.116,5,0.29
+Uganda,UGA,Sub-Saharan Africa ,0.118,6,97.08
+Thailand,THA,East Asia & Pacific,0.128,0,14.83
+Ghana,GHA,Sub-Saharan Africa ,0.129,7,36.21
+Jordan,JOR,"Middle East, North Africa, Afghanistan & Pakistan",0.134,4,24.07
+Albania,ALB,Europe & Central Asia,0.136,3,100.0
