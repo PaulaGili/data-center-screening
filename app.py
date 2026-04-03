@@ -205,6 +205,7 @@ CSS = """<style>
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 header {visibility: hidden;}
+[data-testid="collapsedControl"] {visibility: visible !important;}
 </style>"""
 
 
@@ -212,6 +213,7 @@ def main() -> None:
     st.set_page_config(
         page_title="DC Location Screening",
         layout="wide",
+        initial_sidebar_state="expanded",
     )
     st.markdown(CSS, unsafe_allow_html=True)
 
