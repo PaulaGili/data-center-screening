@@ -2,7 +2,7 @@
 
 A country-level screening framework that ranks nations as potential data center locations using eight public indicators. Built as an end-to-end data pipeline with an interactive Streamlit app for real-time weight adjustment.
 
-**[Live demo →](https://your-app.streamlit.app)**  *(replace with your Streamlit URL)*
+**[Live demo →](https://data-center-screening.streamlit.app)**
 
 ---
 
